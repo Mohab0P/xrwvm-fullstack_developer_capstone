@@ -262,7 +262,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, email support@cardealership.com or create an issue in the GitHub repository.
+For support, create an issue in the GitHub repository.
 
 ## 🙏 Acknowledgments
 
@@ -274,5 +274,5 @@ For support, email support@cardealership.com or create an issue in the GitHub re
 ---
 
 <p align="center">
-  Made with ❤️ by the Car Dealership Team
+  Made with ❤️ by Mohab
 </p>
