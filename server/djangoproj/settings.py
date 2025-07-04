@@ -30,16 +30,11 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'localhost',
-    (
-        'https://mohabqo-8000.theianext-1-labs-prod-misc-tools-us-east-0.proxy.cognitiveclass.ai'
-        'proxy.cognitiveclass.ai'
-    )
+    'mohabqo-8000.theianext-1-labs-prod-misc-tools-us-east-0.proxy.cognitiveclass.ai'
 ]
+
 CSRF_TRUSTED_ORIGINS = [
-    (
-        'https://mohabqo-8000.theianext-1-labs-prod-misc-tools-us-east-0.proxy.cognitiveclass.ai'
-        'proxy.cognitiveclass.ai'
-    )
+    'https://mohabqo-8000.theianext-1-labs-prod-misc-tools-us-east-0.proxy.cognitiveclass.ai'
 ]
 
 REST_FRAMEWORK = {
